@@ -2,9 +2,7 @@
 - 👀 I’m interested in making codes especially in clanguage 
 - 🌱 I’m currently learning java language alongwith getting BTech
 - 💞️ I’m looking for a good internship
-- 📫 How to reach me through my email address 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: through my email address 
 
 <!---
 aalekhchaudhary/aalekhchaudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
